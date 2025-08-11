@@ -1,5 +1,12 @@
+/* App.css */
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('./Img/background.jpg') no-repeat center/cover;
 }
 
 .App-logo {
