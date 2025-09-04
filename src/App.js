@@ -6,6 +6,7 @@ import ClassComponents from './components/CLassComponents';
 function App() {
   return (
     <div className="App">
+      <h1 style={{color:'white'}}>Assignment-2 Counter Application</h1>
      <FunctionalComponent/>
      <ClassComponents/>
     </div>
