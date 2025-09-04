@@ -23,14 +23,7 @@ You can check the deployed project here:
 
 ---
 
-## 🛠️ Tech Stack
-- **React.js** (Class & Functional Components)
-- **CSS** (for styling and UI)
 
----
-
-## 📷 Screenshot (UI Example)
-(Add your project screenshot here if available)
 
 ---
 
