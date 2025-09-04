@@ -1,4 +1,4 @@
-# Assignment-2 Counter Application
+Counter Application
 
 This project is a simple **Counter Application** built with React. It demonstrates the use of both **Class Components** and **Functional Components** side by side in a single application. Each component provides increment and decrement functionality with "+" and "-" buttons.
 
