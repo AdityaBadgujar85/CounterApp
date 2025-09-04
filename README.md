@@ -22,9 +22,3 @@ You can check the deployed project here:
 - Attractive and responsive **UI**
 
 ---
-
-
-
----
-
-## 📂 Project Structure
